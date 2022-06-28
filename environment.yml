@@ -1,0 +1,31 @@
+# conda env create --file environment.yml
+name: venv_ml_pro
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fs
+  - pathlib
+  - black
+  - invoke
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - nbdime
+  - numpy
+  - pandas
+  - pip
+  - plotly
+  - pyjanitor
+  - pyprojroot
+  - python=3.10
+  - seaborn
+  - scipy
+  - scikit-learn
+  - pip
+  - pyprojroot
+  - python=3.10
+  - pip:
+    - pyhere
+    
