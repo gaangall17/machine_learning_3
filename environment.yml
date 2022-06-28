@@ -26,6 +26,7 @@ dependencies:
   - pip
   - pyprojroot
   - python=3.10
+  - joblib
   - pip:
     - pyhere
     
