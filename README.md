@@ -2,6 +2,6 @@
 
 By: ggallardo
 
-Machile learning proyect
+Machile learning project
 
 ### License

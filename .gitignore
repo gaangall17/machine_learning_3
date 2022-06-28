@@ -1,6 +1,9 @@
 #venv created by cookiecutter
 venv_ml_pro/
 
+#data folder for data protection
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
