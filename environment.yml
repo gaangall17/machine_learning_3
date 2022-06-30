@@ -27,6 +27,7 @@ dependencies:
   - pyprojroot
   - python=3.10
   - joblib
+  - flask
   - pip:
     - pyhere
     
